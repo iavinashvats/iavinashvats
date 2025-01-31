@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Avinash Vats
+# 👋 Hi, I’m Avinash Vats
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Open Source Contribution
