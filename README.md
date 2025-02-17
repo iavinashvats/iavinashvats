@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Avinash Vats
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Open Source Contribution
+- 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me in.avinashvats@gmail.com
 - 😄 Pronouns: He/Him
 
